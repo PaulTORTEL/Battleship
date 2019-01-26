@@ -1,6 +1,10 @@
-Paul TORTEL & Vincent COURSAC
-EFREI Promo 2019 - Software Engineering
+# [Battleship game](https://en.wikipedia.org/wiki/Battleship_(game))
+This is a local multiplayer game, where there are 2 players (clients) and a server.
+It is implemented in C, on a Linux environment.
 
+## Developed by Paul TORTEL & Vincent COURSAC
+
+### Notes:
 To compile the project, you must compile with "-pthread".
 
 Tutorial to play:
